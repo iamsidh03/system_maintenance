@@ -1,0 +1,2 @@
+Warning: Low disk space on drive C:
+Error: Failed to start backup service
